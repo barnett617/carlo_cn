@@ -4,18 +4,16 @@
 
 #### npm
 
-```
+```bash
 npm i carlo
 # yarn add carlo
 ```
 
 > Carlo 需要Node的版本至少为v7.6.0。
 
-**示例**
+**示例**  - 展示本地环境
 
-* 展示本地环境
-
-将以下内容保存为**example.js**文件
+将以下内容保存为 **example.js** 文件
 
 ```js
 const carlo = require('carlo');
@@ -38,7 +36,7 @@ const carlo = require('carlo');
 })();
 ```
 
-将以下内容保存为**example.html**文件
+将以下内容保存为 **example.html** 文件
 
 ```html
 <script>
@@ -61,5 +59,4 @@ async function run() {
 node example.js
 ```
 
-查看拥有更加丰富的UI和基于Web和Node之间远程调用通信的例子在 \[examples\]\([https://github.com/GoogleChromeLabs/carlo/tree/master/examples\](https://github.com/GoogleChromeLabs/carlo/tree/master/examples\)\) 目录
-
+查看拥有更加丰富的UI和基于Web和Node之间远程调用通信的例子在 [examples](https://github.com/GoogleChromeLabs/carlo/tree/master/examples) 目录
