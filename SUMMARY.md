@@ -6,5 +6,6 @@
 * [API](api.md)
 * [测试](ce-shi.md)
 * [如何为Carlo做贡献](ru-he-wei-carlo-zuo-gong-xian.md)
+* [贡献指南](contributing.md)
 * [问答](wen-da.md)
 
